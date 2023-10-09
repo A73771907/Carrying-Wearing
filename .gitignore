@@ -1,0 +1,9 @@
+**/__pycache__
+Data/RawZips/
+Data/Raws/
+env/
+Raw/
+*.sock
+wsgi.py
+Data/cleaning.log
+Others
